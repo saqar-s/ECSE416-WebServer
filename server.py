@@ -1,7 +1,6 @@
 #server.py application
 #this application does not take any argument and it should be followed by running client.py
 #Lab 1 ECSE 416
-#Authors: Saghar Sahebi-260908343 & Lucas Pacicco-260975640
 import socket
 import os
 import matplotlib.pyplot as plt
